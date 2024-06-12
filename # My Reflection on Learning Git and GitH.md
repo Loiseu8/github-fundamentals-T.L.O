@@ -21,7 +21,7 @@ Learning **Git** and **GitHub** has been an <sup>enlightening</sup> experience. 
 
 ### Areas of Confusion 😕
 
-While the journey has been largely positive➕➕➕, an area that still poses a **challenge** for me is **Branch Management**. I have identified a need for more practice to solidify my understanding of the best practices for naming, merging, and deleting branches. 
+While the journey has been largely positive➕➕➕, an area that still poses a **challenge** for me is **Branch Management**. I have identified a need for more practice to solidify my understanding of the ***best practices*** for naming, merging, and deleting branches. 
 
 Similarly, resolving merge conflicts remains a tricky🤡 area. While I understand the basics, the process became rather complex as I had to practice in a <sup>collaborative</sup> environment with frequent changes of my own.
 
